@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+   }
+   header{
+   
+   }
+   .outside{background-color: #d94363;padding: 10% 12%;}
+   
+   .form_section{
+   
+background-color: #e38fa1;
+   
+display: flex;
+   
+justify-content: space-between;
+   }
+   .form_pic{
+    background-image: url(../images/women.jpg);
+    width: 30%;
+    background-position: left;
+    background-repeat: no-repeat;
+    will-change: auto;
+   }
+   .form_pic img{
+       
+   width: 100%;
+   }
+   
+   
+   .menu{
+   
+   }
+   .menu h1{
+   
+   font-family: lato;
+   
+   font-size: 30px;
+   
+   margin-bottom: 40px;
+   }
+   .first_name{
+   
+   display: flex;
+   
+   justify-content: space-between;
+   
+   width: 80px;
+   
+   margin-bottom: 30px;
+   }
+   .self{}
+   .last{
+   }
+   
+   .place{
+   
+   margin-bottom: 30px;
+   }
+   
+   .birth_name{
+   
+   display: flex;
+   
+   justify-content: space-between;
+   
+   margin-bottom: 30px;
+   }
+   .birthday{
+   
+   }
+   .gender{
+   
+   }
+   
+   .phone{
+   
+   margin-bottom: 30px;
+   }
+   .email{
+   
+   margin-bottom: 100px;
+   }
+   .click button{
+
+padding: 5px 10px;
+
+border: none;
+
+border: 1px solid #d94363;
+
+background: transparent;
+
+border-radius: 10px;
+
+font-size: 16px;
+
+font-family: 'Lato';
+
+color: black;
+
+font-weight: 800;
+transition: .3s;
+}
+
+.click button:hover{
+background-color: #d94363;
+
+}
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
